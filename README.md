@@ -3,7 +3,8 @@
 ![image](https://github.com/redolence2/semi-automatic-labeling-pipeline/assets/140776078/dd79525f-81e4-49a9-89e4-0fc337e3ce59)
 
 
-this pipeline is a semi-automatic lane labeling pipeline, model is based on hybridNets(https://github.com/datvuthanh/HybridNets)
+this pipeline is a semi-automatic lane labeling pipeline, model is modified based on hybridNets(https://github.com/datvuthanh/HybridNets)
+postprocessing is modified based on https://github.com/MaybeShewill-CV/lanenet-lane-detection
 
 *******************usage*******************
 1. download bdd100k official dataset
