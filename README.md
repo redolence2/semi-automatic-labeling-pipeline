@@ -1,5 +1,7 @@
 # semi-automatic-labeling-pipeline
 ![image](https://github.com/redolence2/semi-automatic-labeling-pipeline/assets/140776078/8e754c45-40fa-49db-bd7b-75eeb7a64336)
+![image](https://github.com/redolence2/semi-automatic-labeling-pipeline/assets/140776078/dd79525f-81e4-49a9-89e4-0fc337e3ce59)
+
 
 this pipeline is a semi-automatic lane labeling pipeline, model is based on hybridNets(https://github.com/datvuthanh/HybridNets)
 
